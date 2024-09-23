@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -23,5 +24,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
