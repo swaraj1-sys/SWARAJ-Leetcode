@@ -9,6 +9,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -49,5 +51,10 @@
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
