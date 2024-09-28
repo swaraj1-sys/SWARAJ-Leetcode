@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
