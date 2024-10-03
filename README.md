@@ -26,6 +26,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1480-movie-rating](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1670-patients-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
