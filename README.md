@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -38,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
