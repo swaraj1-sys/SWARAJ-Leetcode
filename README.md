@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
