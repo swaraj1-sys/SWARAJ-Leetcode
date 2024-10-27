@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -46,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
