@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
