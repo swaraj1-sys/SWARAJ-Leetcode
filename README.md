@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -80,5 +81,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
