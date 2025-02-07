@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -61,10 +62,12 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
