@@ -5,7 +5,7 @@ group by name order by count(*) desc, name
 limit 1)
 
 union all 
-(select title as reults
+(select title as results
 from MovieRating join movies using(movie_id)
 where extract(year_month from created_at) =202002
 group by title
