@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
