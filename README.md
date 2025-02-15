@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -95,4 +96,5 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
