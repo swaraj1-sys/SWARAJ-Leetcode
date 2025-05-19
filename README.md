@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0009-palindrome-number) |
 ## Database
 |  |
 | ------- |
