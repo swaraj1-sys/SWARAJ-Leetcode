@@ -30,6 +30,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0610-triangle-judgement) |
