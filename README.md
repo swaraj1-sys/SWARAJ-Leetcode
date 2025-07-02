@@ -40,6 +40,7 @@
 | [0619-biggest-single-number](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1179-game-play-analysis-i](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1480-movie-rating](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1670-patients-with-a-condition) |
