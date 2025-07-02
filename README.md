@@ -39,6 +39,7 @@
 | [0610-triangle-judgement](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1480-movie-rating](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1480-movie-rating) |
