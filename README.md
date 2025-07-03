@@ -49,6 +49,7 @@
 | [1837-daily-leads-and-partners](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2024-calculate-special-bonus](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/2024-calculate-special-bonus) |
 ## Hash Table
 |  |
 | ------- |
