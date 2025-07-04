@@ -115,4 +115,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
