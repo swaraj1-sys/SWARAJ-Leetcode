@@ -42,6 +42,7 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1480-movie-rating](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/1670-patients-with-a-condition) |
