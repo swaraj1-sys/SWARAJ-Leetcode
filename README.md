@@ -35,6 +35,7 @@
 | [0180-consecutive-numbers](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0182-duplicate-emails) |
+| [0585-investments-in-2016](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/swaraj1-sys/SWARAJ-Leetcode/tree/master/0610-triangle-judgement) |
