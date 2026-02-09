@@ -7,12 +7,10 @@ spec:
   selector:
     matchLabels:
       app: web-server
-      <+instance.labels>  # Add this line
   template:
     metadata:
       labels:
         app: web-server
-        <+instance.labels>  # Add this line
     spec:
       containers:
       - name: web-server
