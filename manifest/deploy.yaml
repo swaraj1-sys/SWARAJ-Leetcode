@@ -4,8 +4,16 @@ metadata:
   name: my-simple-app
 spec:
   replicas: 1
+  selector:
+    matchLabels:
+      app: web-server
+      <+instance.labels>  # Add this line
   template:
+    metadata:
+      labels:
+        app: web-server
+        <+instance.labels>  # Add this line
     spec:
       containers:
       - name: web-server
-        image: nginx:latest  # We hardcode the image here so Harness doesn't ask for it
+        image: nginx:latest
